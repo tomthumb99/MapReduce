@@ -1,0 +1,20 @@
+Thanks for the "full" code and including the driver class, most folks do not include that. It is nice to get another example, other than Wodcount...
+
+So can you advise what I am look at in the output file:
+
+--- last 10 lines of output --
+(9,80)	Mannar District ,Ketheeswaram temple ,Adam's Bridge ,Black (crater) ,Mallavi ,Kachchatheevu ,Iranamadu ,Kokavil ,Madhu, Sri Lanka ,
+(9,81)	Arunagirinagar ,China Bay Airport ,Kumarapuram (Sri Lanka) ,Kokkilai ,Kuchchaveli ,Battle of Mullaitivu (2009) ,
+(9,85)	Kreiken ,
+(9,87)	Houtermans (crater) ,
+(9,9)	Jebba ,
+(9,90)	Jansky (crater) ,
+(9,91)	Action of 31 May 1809 ,
+(9,93)	Car Nicobar ,Car Nicobar Air Force Base ,
+(9,98)	Amphoe Suk Samran ,Amphoe Khura Buri ,Amphoe Takua Pa ,Amphoe Kapong ,
+(9,99)	Amphoe Khian Sa ,Khao Tha Phet ,Amphoe Phanom ,Amphoe Vibhavadi ,Amphoe Ban Ta Khun ,Amphoe Phrasaeng ,Amphoe Tha Chang, Surat Thani Province ,Bandon Bay ,Amphoe Plai Phraya ,Ko Lamphu ,Amphoe Ban Na San ,Amphoe Kanchanadit ,Amphoe Khiri Rat Nikhom ,Amphoe Ban Na Doem ,Amphoe Mueang Surat Thani ,Amphoe Thap Put ,Chaiya ,Chaiya Railway Station ,Amphoe Wiang Sa, Surat Thani Province ,Khlong Saeng Wildlife Sanctuary ,Khlong Phanom National Park ,Khlong Nakha Wildlife Sanctuary ,
+(90,0)	Arctic Ocean ,
+-------------------------------
+
+
+Just a few points would help me, thanks gain
